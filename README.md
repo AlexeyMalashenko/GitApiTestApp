@@ -1,0 +1,2 @@
+# GitApiTestApp
+ React, Redux
